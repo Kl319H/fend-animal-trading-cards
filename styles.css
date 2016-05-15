@@ -1,0 +1,47 @@
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+ul {
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+}
+
+.left {
+   Float:left;
+   Display:block;
+}
+
+.border-body {
+  border: 2px solid #b4b9ed;
+  box-shadow: 5px 5px 5px rgba(180,185, 237, 0.5);
+}
+
+.border-info {
+  border: 2px solid #b4b9ed;
+}
+
+div {
+    font-family:Arial;
+}
+
+.padding {
+    padding-top: 0px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+}
+
+img {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+  width: 300px;
+}
